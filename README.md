@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **FPT University**
 
-- 🌱 I’m currently learning **C#, ASP .Net, SpringBoot**
+- 🌱 I’m currently learning **C#, ASP .Net, 
 
-- 👯 I’m looking to collaborate on **SWP391**
+- 👯 I’m looking to collaborate on **FSA**
 
-- 🤝 I’m looking for help with **Surplus Flower Platform**
+- 🤝 I’m looking for help with **Free**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nothingistoo-late](https://github.com/nothingistoo-late)
 
